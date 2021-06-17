@@ -1,4 +1,8 @@
 
+// Was not a 100% what you wanted me to do, so i just broke down the challenge into 3 functions
+// and made them as easy to read and clean as possible to do the exact same thing, please check out
+// the rest of my github, thank you for introducing me to Robert Martin !
+
 const cDay = () => {
 
   today = new Date();
@@ -46,7 +50,7 @@ const nyDay = () => {
 };
 
 const vDay = () => {
-    
+
   today = new Date();
 
   valDate = new Date('February 14, 2022');
